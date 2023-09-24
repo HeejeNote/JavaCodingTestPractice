@@ -111,7 +111,7 @@ public class PalindromeString {
         String str = sc.next();
 
         if (str.length() > 100) {
-            System.out.println("문자열 입력시 ");
+            System.out.println("문자열의 길이는 100을 넘지 않습니다.");
             return;
         }
 
