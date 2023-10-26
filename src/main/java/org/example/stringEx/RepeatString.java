@@ -27,9 +27,6 @@ public class RepeatString {
                 }
             }
         }
-
-
-
         return answer;
     }
 
